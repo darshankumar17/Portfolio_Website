@@ -136,14 +136,14 @@
 }
 
 .proitem {
-  margin: 20px 31px;
+  margin: 18px 31px;
   font-family: "Fira Sans", sans-serif;
   padding: 15px 0px;
 }
 
 h1 {
   font-family: "Fira Sans", sans-serif;
-  margin: 35px 30px;
+  margin: 32px 30px;
 }
 
 p {
@@ -175,7 +175,7 @@ p {
   padding: 0px 30px;
 }
 
-.skillitem{
+.skillitem {
   display: flex;
   align-items: center;
   font-family: "Source Code Pro", monospace;
@@ -189,18 +189,18 @@ p {
   background-color: rgb(1, 183, 255);
 }
 
-.hundred{
+.hundred {
   width: 265px;
 }
 
-.fifty{
+.fifty {
   width: 220px;
 }
 
-.t5{
+.t5 {
   width: 110px;
 }
 
-a{
+a {
   text-decoration: none;
 }
